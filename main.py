@@ -5,12 +5,9 @@ from flask import Flask, jsonify, request
 # Crear proyecto
 # Asignar gestor a proyecto
 # Asignar cliente a proyecto
-# Crear tareas a proyecto (debo estar asignado)
-# Asignar programador a proyecto
-# Asignar programadores a tareas
 # Obtener programadores
-# Obtener proyectos (activos o todos)
-# Obtener tareas de un proyecto (sin asignar o asignada)
+# Asignar programadores a tareas
+# Asignar programador a proyecto
 
 # Simón González Cabrera
 
